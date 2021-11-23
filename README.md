@@ -21,7 +21,7 @@ This repository contains sample code for all the Lambda functions depicted in th
 ### How to deploy
 Follow these instructions to deploy the application (both backend and frontend):
 
-[![One-click deployment](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/lambda-refarch-imagerecognition)
+[![One-click deployment](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/liangyimingcom/lambda-refarch-imagerecognition)
  
 1. Use **1-click deployment** button above. Amplify Console will fork this repository in your GitHub account, and deploy the backend and frontend application.
     - Note: If you forked and changed the repository first, you can use the Amplify console and select "**Connect App**" to connect to your forked repo. 
