@@ -3,6 +3,17 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
+    "@aws-amplify/auth": "^3.4.34",
+    "@aws-amplify/datastore": "^2.10.1",
+    "@aws-amplify/pubsub": "^3.3.3",
+    "@aws-amplify/predictions": "^3.2.34",
+    "@aws-amplify/core": "^3.8.24",
+    "@aws-amplify/ui": "^2.0.3",
+    "@aws-amplify/xr": "^2.2.34",
+    "@aws-amplify/interactions": "^3.3.34",
+    "@aws-amplify/analytics": "^4.0.22",
+    "@aws-amplify/cache": "^3.1.57",
+	  
     "@aws-amplify/api": "^3.3.3",
     "@aws-amplify/storage": "^3.4.4",
     "@aws-amplify/ui-react": "^1.2.18",
